@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+httpx
+redis
+slowapi
+pydantic
+pydantic-settings
+python-dotenv
+structlog
+prometheus-client
+pytest
+pytest-asyncio
